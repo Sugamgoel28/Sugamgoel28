@@ -10,7 +10,7 @@
 - 🎯 Goal-oriented: Driven by goals and deadlines, committed to delivering high-quality solutions while meeting project milestones and exceeding client expectations.
 - 🤝 Mentoring and Sharing: Passionate about sharing knowledge and mentoring aspiring developers, contributing to the growth and development of the coding community.
 
-## My Stats
+## GitHub Stats
 
 | My GitHub Stats | My GitHub Streak | My Top Languages |
 |--|--|--|
