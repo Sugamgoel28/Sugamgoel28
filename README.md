@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there, I'm Sugam Goel👋</h1>
+<h1 align = "center">Hi there, I'm <a href = "https://www.linkedin.com/feed/">Sugam Goel</a>👋</h1>
 
 <h3 align = "center">Tech enthusiast | NIT Rourkela'25 </h3>
 
