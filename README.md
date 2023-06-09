@@ -10,6 +10,11 @@
 - 🎯 Goal-oriented: Driven by goals and deadlines, committed to delivering high-quality solutions while meeting project milestones and exceeding client expectations.
 - 🤝 Mentoring and Sharing: Passionate about sharing knowledge and mentoring aspiring developers, contributing to the growth and development of the coding community.
 
+## My Stats
+
+| My GitHub Stats | My GitHub Streak | My Top Languages |
+|--|--|--|
+|![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugamgoel28&show_icons=true&theme=react)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sugamgoel28&theme=react)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugamgoel28&layout=compact&theme=react&langs_count=6)|
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
